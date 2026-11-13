@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cyber security student
 ----------------------
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/caa19dbf-04df-4962-8b28-76e768089e76" />
-<img width="800" height="523" alt="image" src="https://github.com/user-attachments/assets/384c9b29-b067-4841-a5ab-3448ebb2a193" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/384c9b29-b067-4841-a5ab-3448ebb2a193" />
 
 I went to trade school for network security and completed with my CompTIA network + certification. Now I am focused on a career in cyber security specifically (Identity Access Management) and am currently pursuing my bachelors of cybersecurity.
 
