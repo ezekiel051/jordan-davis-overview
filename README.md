@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cyber security student
 ----------------------
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/caa19dbf-04df-4962-8b28-76e768089e76" />
-<img width="260" height="200" alt="image" src="https://github.com/user-attachments/assets/384c9b29-b067-4841-a5ab-3448ebb2a193" />
+
 
 I went to trade school for network security and completed with my CompTIA network + certification. Now I am focused on a career in cyber security specifically (Identity Access Management) and am currently pursuing my bachelors of cybersecurity.
 
@@ -23,3 +23,4 @@ I went to trade school for network security and completed with my CompTIA networ
 
 <p align="left"> <a href="https://www.github.com/JordanDavis" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/jordan-davis-6b218b375
 " target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+CERTS|<img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/33518fe0-725a-4779-93de-f968c07c0a8a" />
